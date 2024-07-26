@@ -19,6 +19,10 @@ body {
 h1 {
     color: #ff69b4;
 }
+p {
+    color: #ff69b4; /* a dark gray */
+    font-size: x-large;
+}
 #countdown {
     font-size: 2em;
     margin: 20px 0;
